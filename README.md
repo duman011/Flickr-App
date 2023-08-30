@@ -1,6 +1,6 @@
 # Flickr-App
 Flickr API Kullanımı
-* MVVM
+* MVC
 * External API (Flickr)
 * URLSession
 * Programmatic layout
